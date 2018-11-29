@@ -1,0 +1,21 @@
+body {
+  background-color: #ff99cc;
+  color:black;
+  font-family: "Europa", sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Europa", sans-serif;
+  color: #4b009a;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Europa", sans-serif;
+  color: #cc00cc;
+}
+.fuzzy {
+  color: #ff0066
+}
